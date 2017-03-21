@@ -1,0 +1,11 @@
+matt muir|napier university|c27, merchiston campus|10 colinton road, edinburgh|07596887205|40187070@live.napier.ac.uk
+sam michaels|university of glasgow|15a, boyd orr|university avenue, glasgow|01413305933|s.michaels@glasgow.ac.uk
+elaine murgatoyd|university of strathclyde|m131, humanities & social science department|16 richmond st, glasgow|01415592386|e.murgatoyd.strath.ac.uk
+arthur boruc|university of edinburgh|13.2, 18 buccleuch place|old college, south bridge, edinburgh|01317798433|a.boruc@ed.ac.uk
+william buchanan|napier university|d23, merchiston campus|10 colinton road, edinburgh|01315550923|w.buchanan@napier.ac.uk
+lesley smith|university of glasgow|16.2, engineering dept|university avenue, glasgow|01413308009|l.smith@glasgow.ac.uk
+liz mccane|university of strathclyde|b32, humanities & social science department|16 richmond st, glasgow|01415591234|l.mccane.strath.ac.uk
+shaun matheson|university of edinburgh|22f, 18 buccleuch place|old college, south bridge, edinburgh|01317795555|s.matheson@ed.ac.uk
+mike torres|harvard university|14b law school|cambridge, ma 02138, usa|07582364772|m.torres@harvard.edu
+clara pirie|university of edinburgh|33 buccleuch place|old college, south bridge, edinburgh|01315507855|c.pirie@ed.ac.uk
+rob spence|university of the west of scotland|a17 paisley campus|high st, paisley pa1 2be|01418486666|r.spence@uws.ac.uk
